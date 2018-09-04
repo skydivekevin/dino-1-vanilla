@@ -1,4 +1,4 @@
-#VANILLA DINOS
+# VANILLA DINOS
 
 Do not use a framework, this is going do be done all with vanilla JS.
 
